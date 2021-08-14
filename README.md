@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# practice-blog
+practice blog for avion school ruby course
+>>>>>>> ea4eb732a6e18f32c5c5bbcac9e66227b828442e
